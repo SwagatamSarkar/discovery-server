@@ -10,7 +10,6 @@ public class App
 {
     public static void main( String[] args )
     {
-    	// Test commit trigger
     	SpringApplication.run(App.class, args);
     }
 }
